@@ -22,7 +22,9 @@
 # 노드의 역할
 
 1. 노드 서버의 장단점
-   ![Alt text](image-1.png)
+
+   # ![Alt text](image-1.png)
+
 2. 서버 외의 노드
    - 웹,모바일,데스크탑 애플리케이션에도 사용
      - 웹 프레임 워크: Angular, React,Meteor 등
