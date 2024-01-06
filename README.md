@@ -27,6 +27,6 @@
 
 2. 서버 외의 노드
    - 웹,모바일,데스크탑 애플리케이션에도 사용
-     - 웹 프레임 워크: Angular, React,Meteor 등
+     - 웹 프레임 워크: Angular,React,Meteor 등
      - 모바일 앱 프레임워크: React Native
      - 데스크탑 개발 도구: Electron(Atom,Slack, VSCode,Discord 등 제작)
