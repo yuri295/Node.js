@@ -17,4 +17,12 @@
 - require.cache에 한 번 require한 모듈에 대한 캐슁 정보가 들어 있음.
 - require.main은 노드 실행 시 첫 모듈을 가리킴.
 
+### 순환 참조
+
+- 두 개의 모듈이 서로를 require하는 상황
+
 ## ECMAScript 모듈
+
+- import, export, export default
+- mjs 확장자
+- dynamic import: if문 안에서 모듈을 불러올 경우, promise로 불러오기 때문에 top level await 또는 then을 사용
