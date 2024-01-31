@@ -26,3 +26,11 @@
 - import, export, export default
 - mjs 확장자
 - dynamic import: if문 안에서 모듈을 불러올 경우, promise로 불러오기 때문에 top level await 또는 then을 사용
+
+## node 내장 모듈
+
+- os
+  - 운영체제의 정보를 담고 있음.
+  - require로 가져옴.
+- path
+  - 폴더와 파일의 경로를 쉽게 조작하도록 도와주는 모듈
