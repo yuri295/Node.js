@@ -25,3 +25,14 @@
 - clearInterval(아이디):
   setInterval을 취소
 - clearImmediate(아이디): setImmediate을 취소
+
+### process
+
+- 현재 실행 중인 노드 프로세스에 대한 정보를 담고 있음.
+- process.env
+  - 시스템 환경 변수들이 들어 있는 객체
+  - 비밀키를 보관하는 용도
+- process.nextTick(콜백)
+  - 이벤트 루프가 다른 콜백 함수들보다 nextTick의 콜백 함수를 우선적으로 처리
+- process.exit(코드)
+  - 현재의 프로세스 종료
